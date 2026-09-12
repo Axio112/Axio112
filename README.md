@@ -29,4 +29,4 @@ Most of these are private while they're in progress — happy to walk through an
 
 ---
 
-<sub>Recently: <!--RECENT:START-->_updated automatically_<!--RECENT:END--></sub>
+<sub>Recently: <!--RECENT:START-->**RiceEmu** (Sep 9) · **mito-city** (Sep 8) · **switchboard** (Sep 5) · **pixelbench** (Sep 4)<!--RECENT:END--></sub>
